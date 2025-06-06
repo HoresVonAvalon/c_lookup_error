@@ -28,7 +28,7 @@ Dieses Repository enthält ein kleines C-Programm, das zwei Varianten einer Arra
 1. Repository klonen (Terminal oder Git-GUI):
 
    ```bash
-   git clone https://github.com/HoresVonAvalon/c-array-lookup-error.git
+   git clone git@github.com:HoresVonAvalon/c_lookup_error.git
    cd c-array-lookup-error
    ```
 2. Docker-Image bauen:
